@@ -1,15 +1,28 @@
+# uBlock Origin
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/quick-fixes.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
+
+# AdGuard Base + EasyList
 https://filters.adtidy.org/extension/ublock/filters/2.txt
+
+# AdGuard Mobile
 https://filters.adtidy.org/extension/ublock/filters/11.txt
+
+# AdGuard URL Tracking Protection
+https://filters.adtidy.org/extension/ublock/filters/17.txt
+
+# AdGuard Japanese
+https://filters.adtidy.org/extension/ublock/filters/7.txt
+
+# EasyPrivacy
 https://filters.adtidy.org/extension/ublock/filters/118.txt
+
+# Online Malicious URL Blocklist
 https://filters.adtidy.org/extension/ublock/filters/208.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-filters.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-mob.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/japanese/jp-annoyances-plus.txt
+
+# Peter Lowe's Ad and tracking server list
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
